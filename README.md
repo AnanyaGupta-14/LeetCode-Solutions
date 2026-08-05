@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [3731-find-missing-elements](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

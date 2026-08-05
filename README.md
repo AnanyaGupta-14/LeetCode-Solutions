@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [3731-find-missing-elements](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -43,4 +44,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/AnanyaGupta-14/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
